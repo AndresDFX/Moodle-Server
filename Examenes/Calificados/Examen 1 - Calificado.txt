@@ -1,0 +1,24 @@
+Pregunta:1.Hola?
+Mensaje:Sot("hola");
+Opciones:A.Hola:B.Adios:C.Chao:D.Pronto
+Correcta:A
+Estado:Respondida
+Calificacion:Bien
+Respondida por:user2
+
+Pregunta:2.Funciona?
+Mensaje:Sot("de Verdad funciona");
+Opciones:A.Jaja:B.adios:C.amigo:D.mio
+Correcta:B
+Estado:Respondida
+Calificacion:Bien
+Respondida por:user2
+
+Pregunta:3.No Funciona?
+Mensaje:Sot("de Verdad no funciona");
+Opciones:A.por Dioh:B.Vale tio:C.amigo:D.mio
+Correcta:C
+Estado:Respondida
+Calificacion:Mal
+Respondida por:user2
+
