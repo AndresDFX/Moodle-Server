@@ -13,16 +13,16 @@ Puedes obtener el proyecto de dos formas:
 ---
 <u><h3>Prerrequisitos</h3></u>
 
-• Sistema operativo Windows, Linux  o MAC
-• IDE NetBeans 8.1 o superior
-• Máquina virtual Java JDK 1.8 para compilar
+* Sistema operativo Windows, Linux  o MAC
+* IDE NetBeans 8.1 o superior
+* Máquina virtual Java JDK 1.8 para compilar
 
 ---	
 <u><h3>Guía de instalación</u></h3>
 
-**1.**	Debemos importar el proyecto Netbeans o cargar las clases en su IDE de preferencia
+**1.** Debemos importar el proyecto Netbeans o cargar las clases en su IDE de preferencia
 
-**2.**	En net beans debemos resolver las dependencias de las librerías dando clic en “Resolve Problems Project”
+**2.** En Netbeans debemos resolver las dependencias de las librerías dando clic en “Resolve Problems Project”
 
 <img src="/screenshots/resolveproblems_netbeans.png"> 
 		
@@ -40,8 +40,9 @@ Puedes obtener el proyecto de dos formas:
 ---
 <u><h3>Deployment</u></h3> 
 
-**1.**	Para ingresar al Rol del admin las credenciales son admin:123.
-**2.**	Verificar que las carpetas con los examenes tenga permisos por parte del OS.
+**1.** Para ingresar al Rol del admin las credenciales son admin:123.
+
+**2.** Verificar que las carpetas con los examenes tenga permisos por parte del OS.
 
 ---
 
